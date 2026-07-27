@@ -25,7 +25,7 @@ class System:
         H = [1,0] 
         T = [0,1]
         state_1 = H 
-        state_2 = T
+        #state_2 = T
 
         two_state = (state_1, state_2)
 

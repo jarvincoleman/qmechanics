@@ -10,7 +10,7 @@ import matplotlib
 ### Include Type Annotations
 class NeuralNet:
     
-    def __init__(self): 
+    def __init__(self):
         pass
 
     def _generate_dataset(self, data, qs_file):
