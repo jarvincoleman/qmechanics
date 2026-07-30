@@ -58,14 +58,14 @@ class System:
     def expectation(self, x, y, spin):
 
         ## set coordinates for probalistic expectation value 
-        zz = any 
-        y = any 
-        x = any 
         pass
 
-    def outcomes(self, zz):
+    def outcomes(self, prob: float, zz):
         ## pass in coordinates and compute... 
             ## histograms of theoretical probs.
+
+        
+        for p in prob:
         pass
 
 
